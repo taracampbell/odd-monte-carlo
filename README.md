@@ -1,7 +1,7 @@
 Odd: Monte Carlo AI
 ===============
 
-AI for the game Odd, using the Monte Carlo method
+AI for the game Odd, using the Monte Carlo method. See the wiki for an explanation of the game and the AI.
 
 ### Compiling
 
